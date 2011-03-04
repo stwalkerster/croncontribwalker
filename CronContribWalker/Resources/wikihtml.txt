@@ -1,0 +1,31 @@
+<html>
+<head>
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.17/common/shared.css" type="text/css" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.17/monobook/main.css" type="text/css" />
+<link rel="stylesheet" href="http://en.wikipedia.org/w/index.php?title=MediaWiki:Common.css&usemsgcache=yes&ctype=text/css&action=raw" type="text/css" />
+<link rel="stylesheet" href="http://en.wikipedia.org/w/index.php?title=-&action=raw&gen=css" type="text/css" />
+<link rel="stylesheet" href="http://bits.wikimedia/skins-1.17/monobook/IE70Fixes.css" type="text/css" media="screen" />
+<style type="text/css">
+  * {background-image: none !important}
+  .historysubmit {display: none}
+  * {text-decoration: none;}
+  :hover {text-decoration: underline;}
+  .new {color: red;}
+  table.diff {table-layout: fixed; font-size: 12pt}
+  table.diff col.diff-content {width: 50%;}
+  td.diff-marker {font-size: 0px; color: white;}
+  #differences-nextlink, #differences-prevlink, .diff-lineno, #mw-diff-otitle4, #mw-diff-ntitle4 {display: none;}
+  .diff td div {overflow: scroll; font-size: 80%;}
+  .diff {width: 98%; font-family: arial;}
+  .diff-addedline {background: #CCFFCC;}
+  .diff-deletedline {background: #FFFFCC;}
+  .diffchange {color: red; font-weight: bold;}
+  .diff-multi {font-size: 120%; font-weight: bold;}
+  .mw-rollback-link {display: none;}
+  .usermessage {font-family: arial; background-color: #ffce7b; border: 1px solid #ffa500; color: black; font-weight: bold; margin: 2em 0 1em; padding: 0.5em 1em; vertical-align: middle;}
+</style>
+</head>
+<body><table class="diff"><col class='diff-marker' /> 
+			<col class='diff-content' /> 
+			<col class='diff-marker' /> 
+			<col class='diff-content' />
